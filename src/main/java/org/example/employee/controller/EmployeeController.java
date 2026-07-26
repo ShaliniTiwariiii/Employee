@@ -2,7 +2,6 @@ package org.example.employee.controller;
 
 import org.example.employee.dto.EmployeeDTO;
 import org.example.employee.dto.EmployeeDTORequest;
-import org.example.employee.model.Employee;
 import org.example.employee.service.EmployeeServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
